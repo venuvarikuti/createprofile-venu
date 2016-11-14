@@ -1,0 +1,83 @@
+<p>NAME : VARIKUTI VENU GOPAL REDDY</p>
+<p>DEGREE : BACHELOR OF ENGINEERING</p>
+
+<p>BRANCH : ELECTRONIC COMMUNCATION &amp; ENGINEERING</p>
+
+<p>ROLL NO : 191312154</p>
+
+<p>E-MAIL: varikutivenu888@gmail.com</p>
+
+<p>PERMANENT ADDRESS:</p>
+
+<p>MARRI PALLI,</p>
+
+<p>OBUL REDDY PALLI POST,V.N.PALLI,</p>
+
+<p>KADAPA DIST,A.P-516321,</p>
+
+<p> +91 7995651325</p>
+
+<p>DATE OF BIRTH : 15.07.1996 AGE: 20years GENDER: male</p>
+
+<p>MOTHER TONGUE: TELUGU</p>
+
+<p>LANGUAGES : TELUGU, ENGLISH</p>
+<table border="1">
+<tr>
+   <th>Course</th>
+   <th>Institution</th>
+   <th>year of passing</th>
+<th>Marks obtained</th>
+  <tr>
+    <td>B.E</td>
+    <td>SAVEETHA SCHOOL OF ENGINEERING,SAVEETHA UNIVERSTIY,CHENNAI</td> 
+    <td>2017</td>
+    <td>8.23</td>
+  </tr>
+  <tr>
+    <td>BOARD OF INTERMEDIATE</td>
+    <td>NRI COLLEGE,GUNTUR</td> 
+    <td>2013</td>
+<td>93%</td>
+  </tr>
+ <tr>
+    <td>SSC </td>
+    <td>USHA KIRAN HIGH SCHOOL,VEMPALLI</td> 
+    <td>2011</td>
+<td>74.5%</td>
+  </tr>
+
+</table>
+
+
+<p>TECHNICAL SKILLS:</p>
+
+<ul><li> Web Technologies	: HTML</li></ul>
+
+<ul><li> Languages 		: C, C++,Java</li></ul>
+
+<ul><li> Environments	        : Microsoft Visual Studio, SQL Server Management Studio</li></ul>
+
+<ul><li>Database		: MYSQL Server</li></ul>
+
+
+<p>ACHIEVEMENTS</p>
+
+<ul><li>•	RoboRace and Robo Soccer competitions in MIT Madras, JNTU Hyderabad,Saveetha University. </ul></li>
+<ul><li>•	Member of The Institution Of Engineering and Technology(IET).</ul></li>
+<ul><li>•	Awarded as Organizer for the workshop Le’Incasso’16 presented by IET.</ul></li>
+
+<p>AREAS OF INTEREST:</p>
+
+<UL><li>•	Analog Communication</li></ul>
+<UL><li>Object Oriented Programming Concepts</li></ul>
+<UL><li>Digital Communication</li></ul>
+
+
+<p>HOBBIES:</p>
+
+<ul><li>Surfing net</li></ul>
+
+<ul><li>playing cube</li><ul>
+
+<p></p>
